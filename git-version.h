@@ -1,0 +1,1 @@
+#define GIT_VERSION 0x72f07d2
